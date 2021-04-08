@@ -12,5 +12,8 @@
   ],
   "author": "Jerry Osorio",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    
+  }
 }

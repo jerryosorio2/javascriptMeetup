@@ -1,6 +1,4 @@
-//CallBacks Example
-
-import Operations from './Operations/Operations.js'
+import Operations from './Operations.js'
 
 function executeProcess(){
     

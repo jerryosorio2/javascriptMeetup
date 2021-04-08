@@ -1,4 +1,4 @@
-class ComplexOperations {
+class Operations {
 
     processOne (){
         setTimeout(function(){
@@ -29,4 +29,4 @@ class ComplexOperations {
     }
 }
 
-export default new ComplexOperations()
+export default new Operations()

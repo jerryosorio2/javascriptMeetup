@@ -1,4 +1,4 @@
-class SimpleOperations {
+class Operations {
 
     processOne (){
         console.log("\n\t Executing process 1");
@@ -22,4 +22,4 @@ class SimpleOperations {
 
 }
 
-export default new SimpleOperations()
+export default new Operations()
